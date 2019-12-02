@@ -20,9 +20,3 @@ on PCA and Mathematical Morphology -- IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL.
 **Link to the paper:**
 
 [1] Sandra Morales, Valery Naranjo, Jesús Angulo, and Mariano Alcañiz, "Automatic Detection of Optic Disc Based on PCA and Mathematical Morphology", IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL. 32, NO. 4, APRIL 2013. ([Link](http://pgembeddedsystems.com/securelogin/upload/project/IEEE/29/PG2013IP002/3.pdf))  
-
-----------------
-
-## Install
-
-OpenCV will need to be installed separately.
