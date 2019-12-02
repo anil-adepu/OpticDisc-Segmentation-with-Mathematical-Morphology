@@ -1,7 +1,6 @@
 # OpticDisc Segmentation with Mathematical Morphology
 
-**Code for IEEE_paper_06408254(["Automatic Detection of Optic Disc Based
-on PCA and Mathematical Morphology -- IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL. 32, NO. 4, APRIL 2013"](http://pgembeddedsystems.com/securelogin/upload/project/IEEE/29/PG2013IP002/3.pdf)) **
+**Code for IEEE_paper_06408254(["Automatic Detection of Optic Disc Based on PCA and Mathematical Morphology -- IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL. 32, NO. 4, APRIL 2013"](http://pgembeddedsystems.com/securelogin/upload/project/IEEE/29/PG2013IP002/3.pdf))**
 
 
 1. The code is based on: *openCV + PIL + scipy*
