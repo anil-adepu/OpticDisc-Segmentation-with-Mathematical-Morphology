@@ -10,6 +10,7 @@ on PCA and Mathematical Morphology -- IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL.
 
 ----------------
 
+
 **Main files:**
 
 1. 'starter.py': The disc detection code for whole funuds image.
